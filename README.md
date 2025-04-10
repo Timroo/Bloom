@@ -1,5 +1,5 @@
 
-# Unity的Bloom效果实现，包括
+# Bloom效果（Unity实现）
 
 1) 高质量Bloom
 2) 简单Bloom（来自《Unity Shader入门精要》）
